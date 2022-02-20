@@ -18,32 +18,33 @@
 <tr align="center">  
 <td width="545"><strong>Languages</strong></td>  
 <td width="466">
-	<img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-	<img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    <img alt="Js" width="36px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-	<img width="36px" src="https://img.icons8.com/color/50/000000/typescript.png"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/java.png" alt="Java"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+	<a href="https://html.com/" target="_blank"> <img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> </a> 
+	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> </a> 
+    <a href="https://javascript.com" target="_blank"> <img alt="Js" width="36px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
+	<a href="https://typescript.com" target="_blank"> <img width="36px" src="https://img.icons8.com/color/50/000000/typescript.png"/> </a> 
+	<a href="https://isocpp.org/" target="_blank"> <img width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
+	<a href="https://docs.oracle.com/en/java/" target="_blank"> <img width="36px" src="https://img.icons8.com/color/48/000000/java.png" alt="Java"/> </a> 
+	<a href="https://docs.python.org/3/" target="_blank"> <img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> </a>
 
 </td>  
-</tr>  
+</tr>
+
 <tr align="center">  
 <td width="50%"><strong>Frontend</strong></td>  
 <td width="50%">
-	<img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+	<a href="https://reactjs.org/" target="_blank"> <img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> </a> 
 <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank"> <img src="https://img.icons8.com/color/48/000000/api-settings.png"/> </a>
-	<img alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/>
+	<a href="https://redux.js.org/introduction/getting-started" target="_blank"> <img alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/> </a> 
 </td>  
 </tr>
 
 <tr align="center">  
 <td width="50%"><strong>Backend</strong></td>  
 <td width="50%">
-    <img alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-	<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-	<img alt="Express.js" width="36px" src="https://img.icons8.com/color/48/000000/js.png" />
-	<img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+   <a href="https://nodejs.org/en/docs/" target="_blank">  <img alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> </a> 
+	<a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+	<a href="https://devdocs.io/express/" target="_blank"> <img alt="Express.js" width="36px" src="https://img.icons8.com/color/48/000000/js.png" /> </a> 
+	<a href="https://console.firebase.google.com/" target="_blank"> <img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> </a> 
 </td>  
 </tr>
 
@@ -51,26 +52,26 @@
 <td width="50%"><strong>Database</strong></td>  
 <td width="50%">
 	<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="" width="38px" /> </a> 
-	<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="" width="40px" /> </a> 
+	<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="" width="40px" /> </a>
+	<a href="https://console.firebase.google.com/" target="_blank"> <img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> </a>  
 </td>  
 </tr>
 
 <tr align="center">  
 <td width="50%"><strong>Version Control</strong></td>  
 <td width="50%">
-   <img alt="Git" width="40px" src="https://img.icons8.com/color/64/000000/git.png"/>
-	<img alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+   <a href="https://git-scm.com/" target="_blank">  <img alt="Git" width="40px" src="https://img.icons8.com/color/64/000000/git.png"/> </a>
+	<a href="" target="_blank"> <img alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> </a>
 </td>  
 </tr>
 
 <tr align="center">  
 <td width="50%"><strong>Cloud Tech</strong></td>  
 <td width="50%">
-	<img width="36px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-    <img width = "36px" src="https://img.icons8.com/color/48/000000/lambda.png"  />
+	<a href="https://aws.amazon.com/" target="_blank"> <img width="36px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/AWS_Lambda" target="_blank"> <img width = "36px" src="https://img.icons8.com/color/48/000000/lambda.png"  /> </a>
 	<a href="https://aws.amazon.com/cloudwatch/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" alt="CloudWatch" width="36px" /> </a> 
 		<a href="https://aws.amazon.com/cloudwatch/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="CloudWatch" width="36px" /> </a>
-			
 </td>  
 </tr>
 
@@ -92,9 +93,9 @@
 	<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="36"/> </a>
 	<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="" width="36px" /> </a> 
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sql.png" alt="" width="38px" /> </a> 
-	<a href="" target="_blank"> <img src="" alt="" width="36px" /> </a> 
-	<a href="" target="_blank"> <img src="" alt="" width="36px" /> </a> 
-	<a href="" target="_blank"> <img src="" alt="" width="36px" /> </a> 					
+	<a href="https://cloudinary.com/" target="_blank"> <img src="https://yktoo.solutions/images/logos/cloudinary-logo.png" alt="" width="46px" /> </a> 
+	<!-- <a href="" target="_blank"> <img src="" alt="" width="36px" /> </a>  -->
+	<!-- <a href="" target="_blank"> <img src="" alt="" width="36px" /> </a> 					 -->
 </td>  
 </tr>
 
@@ -103,7 +104,7 @@
 <br/>
 <br/>
 
-#### GITHUB STATS : 
+#### GITHUB STATS :
 
 [![Niharika's github activity graph](https://activity-graph.herokuapp.com/graph?username=niharika2k00&theme=react-dark)](https://github.com/niharika2k00)
 
@@ -122,6 +123,7 @@
 	<a href="dniharika16@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
 </p>
+
 
   
   
