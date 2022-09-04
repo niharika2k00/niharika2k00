@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Niharika Dutta</h1>
-<h4 align="center">Currently pursuing B-Tech,3rd Year in CSE.</h4>
+<h4 align="center">Currently pursuing B-Tech, 3rd Year in CSE.</h4>
 <h3 align="center"> <b>Full Stack Web Developer || Programmer || Developer 😊</b></h3>
 
 ![Profile views](https://gpvc.arturio.dev/niharika2k00)
@@ -53,6 +53,7 @@
 	<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="" width="38px" /> </a> 
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="" width="40px" /> </a>
 	<a href="https://console.firebase.google.com/" target="_blank"> <img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> </a>  
+	<a href="https://www.postgresql.org/docs/9.4/" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="" width="40px" /> </a>
 </td>  
 </tr>
 
@@ -105,7 +106,7 @@
 
 |       💼 Designation        |                                    🏢 Organization                                    |     ⏰ Timeline     |
 | :-------------------------: | :-----------------------------------------------------------------------------------: | :-----------------: |
-| Full Stack Developer Intern | [@Meliorist Developers](https://www.linkedin.com/company/meliorist-developers/about/) | Feb 2022 - Present  |
+| Full Stack Developer Intern | [@Meliorist Developers](https://www.linkedin.com/company/meliorist-developers/about/) | Feb 2022 - Apr 2022 |
 |  Frontend Developer Intern  | [@Meliorist Developers](https://www.linkedin.com/company/meliorist-developers/about/) | Jun 2021 - Dec 2022 |
 |    Full Stack Developer     |    [@The Prodigious People](https://www.linkedin.com/company/theprodigiouspeople/)    | Apr 2021 - Jun 2021 |
 |  Frontend Developer Intern  |               [@Tawi Tech](https://www.linkedin.com/company/koyo-soft/)               | Mar 2021 - May 2021 |
