@@ -12,9 +12,8 @@
 
 <br/>
 
-#### HOLOPIN BADGES :
+#### [HOLOPIN BADGES](https://www.holopin.io/@niharika2k004) :
 [![@niharika2k004's Holopin board](https://holopin.me/niharika2k004)](https://holopin.io/@niharika2k004)
-
 
 <br/>
 
