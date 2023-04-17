@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Niharika Dutta 👩🏻‍💻 </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">, I'm Niharika Dutta 👩🏻‍💻 </h1>
 <h4 align="center">Currently pursuing B-Tech, 3rd Year in CSE.</h4>
 <h3 align="center"> <b>Full Stack Web Developer || Programmer || Developer 😊</b></h3>
 
