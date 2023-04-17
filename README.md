@@ -6,13 +6,13 @@
 ![Profile views](https://gpvc.arturio.dev/niharika2k00)
 <br/><br/>
 
-#### GITHUB PROFILE TROPHIES :
+#### GITHUB PROFILE TROPHIES 🏆:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niharika2k00" alt="niharika2k00" /></a> </p>
 
 <br/>
 
-#### [HOLOPIN BADGES](https://www.holopin.io/@niharika2k004) :
+#### [HOLOPIN BADGES 📍](https://www.holopin.io/@niharika2k004) :
 [![@niharika2k004's Holopin board](https://holopin.me/niharika2k004)](https://holopin.io/@niharika2k004)
 
 <br/>
@@ -105,7 +105,7 @@
 
 <br/>
 
-#### PROFESSIONAL EXPERIENCE :
+#### PROFESSIONAL EXPERIENCE 💻:
 
 <br/>
 
@@ -118,9 +118,11 @@
 
 <br/>
 
-#### GITHUB STATS :
+#### GITHUB STATS 📊 :
 
-[![Niharika's github activity graph](https://activity-graph.herokuapp.com/graph?username=niharika2k00&theme=react-dark)](https://github.com/niharika2k00)
+[![Niharika's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=niharika2k00&theme=react-dark)](https://github.com/niharika2k00/github-readme-activity-graph)
+
+
 
 <br/>
 <div align=center>
@@ -131,8 +133,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niharika2k00&" alt="niharika2k00" /></p>
 </div>
 
+
 <br/>
-<h2 align="center">Let's Connect <h2>
+<h2 align="center">Let's Connect 🤝<h2>
 <p align="center" backgroud="./images/mid.png">
 	<a href="https://github.com/niharika2k00"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/niharika-dutta-ab40a11a6/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
