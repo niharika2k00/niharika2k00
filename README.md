@@ -1,9 +1,11 @@
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">, I'm Niharika Dutta 👩🏻‍💻 </h1>
-<h4 align="center">Currently pursuing B-Tech, 3rd Year in CSE.</h4>
+<h4 align="center">Currently pursuing B-Tech, 4th Year in CSE.</h4>
 <h3 align="center"> <b>Full Stack Web Developer || Programmer || Developer 😊</b></h3>
 
-![Profile views](https://gpvc.arturio.dev/niharika2k00)
+![Profile views](https://komarev.com/ghpvc/?username=niharika2k00&color=ff69b4)
+
+<!-- ![Profile views](https://gpvc.arturio.dev/niharika2k00) -->
+
 <br/><br/>
 
 #### GITHUB PROFILE TROPHIES 🏆:
@@ -13,11 +15,12 @@
 <br/>
 
 #### [HOLOPIN BADGES 📍](https://www.holopin.io/@niharika2k004) :
+
 [![@niharika2k004's Holopin board](https://holopin.me/niharika2k004)](https://holopin.io/@niharika2k004)
 
 <br/>
 
-#### LANGUAGES AND TECHNOLOGIES  💻 📚:
+#### LANGUAGES AND TECHNOLOGIES 💻 📚:
 
 <table width="100%">
 <tr align="center">
@@ -109,20 +112,20 @@
 
 <br/>
 
-|       💼 Designation        |                                    🏢 Organization                                    |     ⏰ Timeline     |
-| :-------------------------: | :-----------------------------------------------------------------------------------: | :-----------------: |
-| Full Stack Developer Intern | [@Meliorist Developers](https://www.linkedin.com/company/meliorist-developers/about/) | Feb 2022 - Apr 2022 |
-|  Frontend Developer Intern  | [@Meliorist Developers](https://www.linkedin.com/company/meliorist-developers/about/) | Jun 2021 - Dec 2022 |
-|    Full Stack Developer     |    [@The Prodigious People](https://www.linkedin.com/company/theprodigiouspeople/)    | Apr 2021 - Jun 2021 |
-|  Frontend Developer Intern  |               [@Tawi Tech](https://www.linkedin.com/company/koyo-soft/)               | Mar 2021 - May 2021 |
+|       💼 Designation        |                                    🏢 Organization                                    |     ⏰ Timeline      |
+| :-------------------------: | :-----------------------------------------------------------------------------------: | :------------------: |
+|      Software Engineer      |             [@Turbot](https://www.linkedin.com/company/turbot/mycompany/)             | July 2023 - Present  |
+|  Software Engineer Intern   |             [@Turbot](https://www.linkedin.com/company/turbot/mycompany/)             | Aug 2022 - June 2023 |
+| Full Stack Developer Intern | [@Meliorist Developers](https://www.linkedin.com/company/meliorist-developers/about/) | Feb 2022 - Apr 2022  |
+|  Frontend Developer Intern  | [@Meliorist Developers](https://www.linkedin.com/company/meliorist-developers/about/) | Jun 2021 - Dec 2022  |
+|    Full Stack Developer     |    [@The Prodigious People](https://www.linkedin.com/company/theprodigiouspeople/)    | Apr 2021 - Jun 2021  |
+|  Frontend Developer Intern  |               [@Tawi Tech](https://www.linkedin.com/company/koyo-soft/)               | Mar 2021 - May 2021  |
 
 <br/>
 
 #### GITHUB STATS 📊 :
 
-[![Niharika's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=niharika2k00&theme=react-dark)](https://github.com/niharika2k00/github-readme-activity-graph)
-
-
+[![Niharika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niharika2k00&theme=react-dark)](https://github.com/niharika2k00/github-readme-activity-graph)
 
 <br/>
 <div align=center>
@@ -133,7 +136,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niharika2k00&" alt="niharika2k00" /></p>
 </div>
 
-
 <br/>
 <h2 align="center">Let's Connect 🤝<h2>
 <p align="center" backgroud="./images/mid.png">
@@ -142,11 +144,6 @@
 	<a href="dniharika16@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
 </p>
-
-
-
-
-
 
 <!--
 **niharika2k00/niharika2k00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
