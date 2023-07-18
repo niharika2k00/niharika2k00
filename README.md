@@ -2,7 +2,7 @@
 <h4 align="center">Currently pursuing B-Tech, 4th Year in CSE.</h4>
 <h3 align="center"> <b>Full Stack Web Developer || Programmer || Developer 😊</b></h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=niharika2k00&color=ff69b4)
+![Profile views](https://komarev.com/ghpvc/?username=niharika2k00&color=green)
 
 <!-- ![Profile views](https://gpvc.arturio.dev/niharika2k00) -->
 
@@ -115,7 +115,7 @@
 |       💼 Designation        |                                    🏢 Organization                                    |     ⏰ Timeline      |
 | :-------------------------: | :-----------------------------------------------------------------------------------: | :------------------: |
 |      Software Engineer      |             [@Turbot](https://www.linkedin.com/company/turbot/mycompany/)             | July 2023 - Present  |
-|  Software Engineer Intern   |             [@Turbot](https://www.linkedin.com/company/turbot/mycompany/)             | Aug 2022 - June 2023 |
+| Junior Software Engineer Intern |             [@Turbot](https://www.linkedin.com/company/turbot/mycompany/)         | Aug 2022 - June 2023 |
 | Full Stack Developer Intern | [@Meliorist Developers](https://www.linkedin.com/company/meliorist-developers/about/) | Feb 2022 - Apr 2022  |
 |  Frontend Developer Intern  | [@Meliorist Developers](https://www.linkedin.com/company/meliorist-developers/about/) | Jun 2021 - Dec 2022  |
 |    Full Stack Developer     |    [@The Prodigious People](https://www.linkedin.com/company/theprodigiouspeople/)    | Apr 2021 - Jun 2021  |
