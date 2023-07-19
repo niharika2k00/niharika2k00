@@ -28,10 +28,10 @@
 <td width="466">
 	<a href="https://html.com/" target="_blank"> <img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> </a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> </a>
-    <a href="https://javascript.com" target="_blank"> <img alt="Js" width="36px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
+  <a href="https://javascript.com" target="_blank"> <img alt="Js" width="36px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
 	<a href="https://typescript.com" target="_blank"> <img width="36px" src="https://img.icons8.com/color/50/000000/typescript.png"/> </a>
 	<a href="https://isocpp.org/" target="_blank"> <img width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-	<a href="https://docs.oracle.com/en/java/" target="_blank"> <img width="36px" src="https://img.icons8.com/color/48/000000/java.png" alt="Java"/> </a>
+	<a href="https://docs.oracle.com/en/java/" target="_blank"> <img width="36px" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java"/> </a>
 	<a href="https://docs.python.org/3/" target="_blank"> <img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> </a>
 </td>
 </tr>
@@ -40,7 +40,7 @@
 <td width="50%"><strong>Frontend</strong></td>
 <td width="50%">
 	<a href="https://reactjs.org/" target="_blank"> <img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> </a>
-<a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank"> <img src="https://img.icons8.com/color/48/000000/api-settings.png"/> </a>
+  <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank"> <img width="36px" src="https://img.icons8.com/?size=512&id=21893&format=png"/> </a>
 	<a href="https://redux.js.org/introduction/getting-started" target="_blank"> <img alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
 </td>
 </tr>
@@ -50,6 +50,7 @@
 <td width="50%">
    <a href="https://nodejs.org/en/docs/" target="_blank">  <img alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> </a>
 	<a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+	<a href="https://graphql.org/" target="_blank"> <img width="36px" src="https://img.icons8.com/?size=512&id=zdI5E8moxhs-&format=png"/> </a>
 	<a href="https://devdocs.io/express/" target="_blank"> <img alt="Express.js" width="36px" src="https://img.icons8.com/color/48/000000/js.png" /> </a>
 	<a href="https://console.firebase.google.com/" target="_blank"> <img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> </a>
 </td>
@@ -77,6 +78,7 @@
 <td width="50%"><strong>Cloud Tech</strong></td>
 <td width="50%">
 	<a href="https://aws.amazon.com/" target="_blank"> <img width="36px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
+	<a href="https://www.terraform.io/" target="_blank"> <img width="36px" src="https://img.icons8.com/?size=512&id=kEkT1u7zTDk5&format=png"/> </a>
     <a href="https://en.wikipedia.org/wiki/AWS_Lambda" target="_blank"> <img width = "36px" src="https://img.icons8.com/color/48/000000/lambda.png"  /> </a>
 	<a href="https://aws.amazon.com/cloudwatch/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" alt="CloudWatch" width="36px" /> </a>
 		<a href="https://aws.amazon.com/cloudwatch/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="CloudWatch" width="36px" /> </a>
@@ -112,14 +114,14 @@
 
 <br/>
 
-|       💼 Designation        |                                    🏢 Organization                                    |     ⏰ Timeline      |
-| :-------------------------: | :-----------------------------------------------------------------------------------: | :------------------: |
-|      Software Engineer      |             [@Turbot](https://www.linkedin.com/company/turbot/mycompany/)             | July 2023 - Present  |
-| Junior Software Engineer Intern |             [@Turbot](https://www.linkedin.com/company/turbot/mycompany/)         | Aug 2022 - June 2023 |
-| Full Stack Developer Intern | [@Meliorist Developers](https://www.linkedin.com/company/meliorist-developers/about/) | Feb 2022 - Apr 2022  |
-|  Frontend Developer Intern  | [@Meliorist Developers](https://www.linkedin.com/company/meliorist-developers/about/) | Jun 2021 - Dec 2022  |
-|    Full Stack Developer     |    [@The Prodigious People](https://www.linkedin.com/company/theprodigiouspeople/)    | Apr 2021 - Jun 2021  |
-|  Frontend Developer Intern  |               [@Tawi Tech](https://www.linkedin.com/company/koyo-soft/)               | Mar 2021 - May 2021  |
+|         💼 Designation          |                                    🏢 Organization                                    |     ⏰ Timeline      |
+| :-----------------------------: | :-----------------------------------------------------------------------------------: | :------------------: |
+|        Software Engineer        |             [@Turbot](https://www.linkedin.com/company/turbot/mycompany/)             | July 2023 - Present  |
+| Junior Software Engineer Intern |             [@Turbot](https://www.linkedin.com/company/turbot/mycompany/)             | Aug 2022 - June 2023 |
+|   Full Stack Developer Intern   | [@Meliorist Developers](https://www.linkedin.com/company/meliorist-developers/about/) | Feb 2022 - Apr 2022  |
+|    Frontend Developer Intern    | [@Meliorist Developers](https://www.linkedin.com/company/meliorist-developers/about/) | Jun 2021 - Dec 2022  |
+|   Full Stack Developer Intern   |    [@The Prodigious People](https://www.linkedin.com/company/theprodigiouspeople/)    | Apr 2021 - Jun 2021  |
+|    Frontend Developer Intern    |               [@Tawi Tech](https://www.linkedin.com/company/koyo-soft/)               | Mar 2021 - May 2021  |
 
 <br/>
 
