@@ -94,6 +94,15 @@
 </tr>
 
 <tr align="center">
+<td width="50%"><strong>Platforms (OS)</strong></td>
+<td width="50%">
+	<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank"> <img src="https://img.icons8.com/?size=512&id=tpIcYSg4KMn0&format=png" alt="Windows" width="36px" /> </a>
+	<a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=17842&format=png" alt="Linux" width="42px" /> </a>
+	<a href="https://www.apple.com/in/macos/ventura/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=30840&format=png" alt="MacOS" width="42px" /> </a>
+</td>
+</tr>
+
+<tr align="center">
 <td width="50%"><strong>Others</strong></td>
 <td width="50%">
     <a href="https://mui.com/" target="_blank" > <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"  alt="Material UI" width="36px" /> </a>
