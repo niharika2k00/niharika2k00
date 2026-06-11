@@ -4,19 +4,19 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <!-- 🌸 HOT PINK — Dark → Wine → Hot Pink -->
-<a href="https://github.com/niharika2k00">
+<!-- <a href="https://github.com/niharika2k00">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:9D174D,100:EC4899&height=220&section=header&text=Niharika%20Dutta&fontSize=48&fontColor=FCE7F3&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%E2%9C%A8&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="header" />
-</a>
+</a> -->
 
 <!-- 🌅 SUNSET — Yellow → Orange → Pink -->
-<a href="https://github.com/niharika2k00">
+<!-- <a href="https://github.com/niharika2k00">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCD34D,50:F97316,100:EC4899&height=220&section=header&text=Niharika%20Dutta&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%E2%9C%A8&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="header" />
-</a>
+</a> -->
 
 <!-- 💙 COOL BLUE / PURPLE — Sky → Violet → Indigo -->
-<a href="https://github.com/niharika2k00">
+<!-- <a href="https://github.com/niharika2k00">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:8B5CF6,100:6366F1&height=220&section=header&text=Niharika%20Dutta&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%E2%9C%A8&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="header" />
-</a>
+</a> -->
 
 <!-- 🌈 CYBER NEON — Cyan → Violet → Pink -->
 <a href="https://github.com/niharika2k00">
@@ -24,9 +24,9 @@
 </a>
 
 <!-- 🍭 CANDY POP — Pink → Yellow → Cyan -->
-<a href="https://github.com/niharika2k00">
+<!-- <a href="https://github.com/niharika2k00">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:FCD34D,100:06B6D4&height=220&section=header&text=Niharika%20Dutta&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%E2%9C%A8&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="header" />
-</a>
+</a> -->
 
 <div align="center">
 
@@ -305,7 +305,7 @@ contact: dniharika16@gmail.com
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <!-- 🌸 HOT PINK -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:9D174D,100:0D1117&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:9D174D,100:0D1117&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" /> -->
 
 <!-- 🌅 SUNSET -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:F97316,100:FCD34D&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" /> -->
@@ -314,7 +314,7 @@ contact: dniharika16@gmail.com
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:0EA5E9&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" /> -->
 
 <!-- 🌈 CYBER NEON -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:8B5CF6,100:06B6D4&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:8B5CF6,100:06B6D4&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" />
 
 <!-- 🍭 CANDY POP -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:FCD34D,100:EC4899&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" /> -->
