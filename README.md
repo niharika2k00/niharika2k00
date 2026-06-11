@@ -1,172 +1,277 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">, I'm Niharika Dutta 👩🏻‍💻 </h1>
-<h4 align="center">Currently pursuing B-Tech, 4th Year in CSE.</h4>
-<h3 align="center"> <b>Full Stack Web Developer || Programmer || Developer 😊</b></h3>
+<a href="https://github.com/niharika2k00">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Niharika%20Dutta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%E2%9C%A8&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="header" />
+</a>
 
-![Profile views](https://komarev.com/ghpvc/?username=niharika2k00&color=green)
+<div align="center">
 
-<!-- ![Profile views](https://gpvc.arturio.dev/niharika2k00) -->
+<a href="https://github.com/niharika2k00">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+scalable+microservice+platforms;Crafting+cloud-native+architectures+on+AWS;Shipping+secure+%26+compliant+systems+at+scale;Always+learning.+Always+building." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://niharika-dutta.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/niharika-dutta-ab40a11a6/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:dniharika16@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 <br/><br/>
 
-#### GITHUB PROFILE TROPHIES 🏆:
+<img src="https://komarev.com/ghpvc/?username=niharika2k00&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niharika2k00" alt="niharika2k00" /></a> </p>
+</div>
 
-<br/>
+---
 
-#### [HOLOPIN BADGES 📍](https://www.holopin.io/@niharika2k004) :
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-[![@niharika2k004's Holopin board](https://holopin.me/niharika2k004)](https://holopin.io/@niharika2k004)
+> Software Engineer with **3+ years** building **microservice platforms** and **cloud-native architectures** in Java, Spring Boot, React, Node.js and AWS. Strong background in **database schema design** and **system-level architecture**. Hands-on with **Docker, Terraform, and CI/CD automation**; experienced collaborator in agile teams and sprint-based delivery.
 
-<br/>
+```yaml
+name:        Niharika Dutta
+role:        Software Engineer @ Turbot
+focus:       [ Full Stack, Cloud, DevOps, Security & Compliance ]
+stack:       [ Java, Spring Boot, React, TypeScript, Node.js, AWS ]
+building:    Scalable distributed systems & cloud governance tooling
+learning:    Always — AI tooling, system design, security frameworks
+portfolio:   https://niharika-dutta.vercel.app/
+contact:     dniharika16@gmail.com
+```
 
-#### LANGUAGES AND TECHNOLOGIES 💻 📚:
+---
 
-<table width="100%">
-<tr align="center">
-<td width="545"><strong>Languages</strong></td>
-<td width="466">
-	<a href="https://html.com/" target="_blank"> <img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> </a>
-  <a href="https://javascript.com" target="_blank"> <img alt="Js" width="36px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
-	<a href="https://typescript.com" target="_blank"> <img width="36px" src="https://img.icons8.com/color/50/000000/typescript.png"/> </a>
-	<a href="https://isocpp.org/" target="_blank"> <img width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-	<a href="https://docs.oracle.com/en/java/" target="_blank"> <img width="36px" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java"/> </a>
-	<a href="https://docs.python.org/3/" target="_blank"> <img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> </a>
+### <img src="https://media.giphy.com/media/W5DH35GAvyKpJMvjbu/giphy.gif" width="28"> Education
+
+<table>
+  <tr>
+    <td><b>🎓 University of Engineering and Management (UEM), Kolkata</b><br/><i>B.Tech in Computer Science and Engineering</i></td>
+    <td align="right"><b>Jul 2019 — May 2023</b><br/><i>CGPA: 9.05 / 10.0</i></td>
+  </tr>
+</table>
+
+---
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🧠 Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+**🎨 Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![MUI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**⚙️ Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**🔗 Microservices**
+
+![REST](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**🗄️ Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 </td>
-</tr>
+<td valign="top" width="50%">
 
-<tr align="center">
-<td width="50%"><strong>Frontend</strong></td>
-<td width="50%">
-	<a href="https://reactjs.org/" target="_blank"> <img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> </a>
-  <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank"> <img width="36px" src="https://img.icons8.com/?size=512&id=21893&format=png"/> </a>
-	<a href="https://redux.js.org/introduction/getting-started" target="_blank"> <img alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-</td>
-</tr>
+**☁️ Cloud Services**
 
-<tr align="center">
-<td width="50%"><strong>Backend</strong></td>
-<td width="50%">
-   <a href="https://nodejs.org/en/docs/" target="_blank">  <img alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> </a>
-	<a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-	<a href="https://graphql.org/" target="_blank"> <img width="36px" src="https://img.icons8.com/?size=512&id=zdI5E8moxhs-&format=png"/> </a>
-	<a href="https://devdocs.io/express/" target="_blank"> <img alt="Express.js" width="36px" src="https://img.icons8.com/color/48/000000/js.png" /> </a>
-	<a href="https://console.firebase.google.com/" target="_blank"> <img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> </a>
-</td>
-</tr>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white)
 
-<tr align="center">
-<td width="50%"><strong>Database</strong></td>
-<td width="50%">
-	<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="" width="38px" /> </a>
-	<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="" width="40px" /> </a>
-	<a href="https://console.firebase.google.com/" target="_blank"> <img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> </a>
-	<a href="https://www.postgresql.org/docs/9.4/" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="" width="40px" /> </a>
-</td>
-</tr>
+**🛠️ DevOps & CI/CD**
 
-<tr align="center">
-<td width="50%"><strong>Version Control</strong></td>
-<td width="50%">
-   <a href="https://git-scm.com/" target="_blank">  <img alt="Git" width="40px" src="https://img.icons8.com/color/64/000000/git.png"/> </a>
-	<a href="" target="_blank"> <img alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> </a>
-</td>
-</tr>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-<tr align="center">
-<td width="50%"><strong>Cloud Tech</strong></td>
-<td width="50%">
-	<a href="https://aws.amazon.com/" target="_blank"> <img width="36px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
-	<a href="https://www.terraform.io/" target="_blank"> <img width="36px" src="https://img.icons8.com/?size=512&id=kEkT1u7zTDk5&format=png"/> </a>
-    <a href="https://en.wikipedia.org/wiki/AWS_Lambda" target="_blank"> <img width = "36px" src="https://img.icons8.com/color/48/000000/lambda.png"  /> </a>
-	<a href="https://aws.amazon.com/cloudwatch/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" alt="CloudWatch" width="36px" /> </a>
-		<a href="https://aws.amazon.com/cloudwatch/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="CloudWatch" width="36px" /> </a>
-</td>
-</tr>
+**🧪 Testing Tools**
 
-<tr align="center">
-<td width="50%"><strong>Testing Tools</strong></td>
-<td width="50%">
-	<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="36px" /> </a>
-	<a href="https://swagger.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/cloud-function.png" alt="Swagegr" width="42px" /> </a>
-</td>
-</tr>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-<tr align="center">
-<td width="50%"><strong>Platforms (OS)</strong></td>
-<td width="50%">
-	<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank"> <img src="https://img.icons8.com/?size=512&id=tpIcYSg4KMn0&format=png" alt="Windows" width="36px" /> </a>
-	<a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=17842&format=png" alt="Linux" width="42px" /> </a>
-	<a href="https://www.apple.com/in/macos/ventura/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=30840&format=png" alt="MacOS" width="42px" /> </a>
-</td>
-</tr>
+**🤖 AI Tools**
 
-<tr align="center">
-<td width="50%"><strong>Others</strong></td>
-<td width="50%">
-    <a href="https://mui.com/" target="_blank" > <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"  alt="Material UI" width="36px" /> </a>
-	<a href="https://www.canva.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="Canva" width="46px" /> </a>
-	<a href="https://www.figma.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="36"/> </a>
-	<a href="https://getbootstrap.com/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="" width="36px" /> </a>
-	<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sql.png" alt="" width="38px" /> </a>
-	<a href="https://cloudinary.com/" target="_blank"> <img src="https://yktoo.solutions/images/logos/cloudinary-logo.png" alt="" width="46px" /> </a>
-	<!-- <a href="" target="_blank"> <img src="" alt="" width="36px" /> </a>  -->
-	<!-- <a href="" target="_blank"> <img src="" alt="" width="36px" /> </a> 					 -->
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**🛡️ Compliance & Security**
+
+![CIS](https://img.shields.io/badge/CIS-1B4F8C?style=for-the-badge&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST-005EA2?style=for-the-badge&logoColor=white)
+![HIPAA](https://img.shields.io/badge/HIPAA-0072CE?style=for-the-badge&logoColor=white)
+![PCI](https://img.shields.io/badge/PCI_DSS-004C97?style=for-the-badge&logoColor=white)
+![SOC2](https://img.shields.io/badge/SOC_2-3B7DDD?style=for-the-badge&logoColor=white)
+![AWS Foundational](https://img.shields.io/badge/AWS_Foundational-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-#### PROFESSIONAL EXPERIENCE 💻:
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"> Professional Experience
 
-<br/>
+<table>
+  <thead>
+    <tr>
+      <th>💼 Role</th>
+      <th>🏢 Company</th>
+      <th>⏰ Timeline</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Software Engineer</b></td>
+      <td><a href="https://www.linkedin.com/company/turbot/mycompany/">@Turbot</a></td>
+      <td>Jul 2023 — Apr 2026</td>
+    </tr>
+    <tr>
+      <td>Junior Software Engineer Intern</td>
+      <td><a href="https://www.linkedin.com/company/turbot/mycompany/">@Turbot</a></td>
+      <td>Aug 2022 — Jun 2023</td>
+    </tr>
+    <tr>
+      <td>Full Stack Developer Intern</td>
+      <td><a href="https://www.linkedin.com/company/meliorist-developers/about/">@Meliorist Developers</a></td>
+      <td>Feb 2022 — Apr 2022</td>
+    </tr>
+    <tr>
+      <td>Frontend Developer Intern</td>
+      <td><a href="https://www.linkedin.com/company/meliorist-developers/about/">@Meliorist Developers</a></td>
+      <td>Jun 2021 — Dec 2021</td>
+    </tr>
+    <tr>
+      <td>Full Stack Developer Intern</td>
+      <td><a href="https://www.linkedin.com/company/theprodigiouspeople/">@The Prodigious People</a></td>
+      <td>Apr 2021 — Jun 2021</td>
+    </tr>
+    <tr>
+      <td>Frontend Developer Intern</td>
+      <td><a href="https://www.linkedin.com/company/koyo-soft/">@Tawi Tech</a></td>
+      <td>Mar 2021 — May 2021</td>
+    </tr>
+  </tbody>
+</table>
 
-|         💼 Designation          |                                    🏢 Organization                                    |     ⏰ Timeline      |
-| :-----------------------------: | :-----------------------------------------------------------------------------------: | :------------------: |
-|        Software Engineer        |             [@Turbot](https://www.linkedin.com/company/turbot/mycompany/)             | July 2023 - Present  |
-| Junior Software Engineer Intern |             [@Turbot](https://www.linkedin.com/company/turbot/mycompany/)             | Aug 2022 - June 2023 |
-|   Full Stack Developer Intern   | [@Meliorist Developers](https://www.linkedin.com/company/meliorist-developers/about/) | Feb 2022 - Apr 2022  |
-|    Frontend Developer Intern    | [@Meliorist Developers](https://www.linkedin.com/company/meliorist-developers/about/) | Jun 2021 - Dec 2022  |
-|   Full Stack Developer Intern   |    [@The Prodigious People](https://www.linkedin.com/company/theprodigiouspeople/)    | Apr 2021 - Jun 2021  |
-|    Frontend Developer Intern    |               [@Tawi Tech](https://www.linkedin.com/company/koyo-soft/)               | Mar 2021 - May 2021  |
+---
 
-<br/>
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> GitHub Analytics
 
-#### GITHUB STATS 📊 :
+<div align="center">
 
-[![Niharika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niharika2k00&theme=react-dark)](https://github.com/niharika2k00/github-readme-activity-graph)
+[![Niharika's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niharika2k00&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=A78BFA&point=FFFFFF)](https://github.com/niharika2k00)
 
-<br/>
-<div align=center>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niharika2k00&show_icons=true&locale=en&layout=compact" alt="niharika2k00" /></p>
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=niharika2k00&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=6366F1&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
+</td>
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niharika2k00&hide_border=true&background=0D1117&stroke=6366F1&ring=A78BFA&fire=FF7E5F&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=C9D1D9" alt="streak" />
+</td>
+</tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niharika2k00&show_icons=true&locale=en" alt="niharika2k00" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=niharika2k00&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&langs_count=10" alt="top-langs" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niharika2k00&" alt="niharika2k00" /></p>
 </div>
 
-<br/>
-<h2 align="center">Let's Connect 🤝<h2>
-<p align="center" backgroud="./images/mid.png">
-	<a href="https://github.com/niharika2k00"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/niharika-dutta-ab40a11a6/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="dniharika16@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
-</p>
+---
 
-<!--
-**niharika2k00/niharika2k00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="28"> GitHub Trophies
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=niharika2k00&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophies" />
+</a>
+
+</div>
+
+---
+
+### <img src="https://media.giphy.com/media/u4WMyMlNrPGEN3lxlt/giphy.gif" width="28"> Holopin Badges
+
+<div align="center">
+
+[![@niharika2k004's Holopin board](https://holopin.me/niharika2k004)](https://holopin.io/@niharika2k004)
+
+</div>
+
+---
+
+### <img src="https://media.giphy.com/media/Lq0Ahd2pYDpa7zN1Lp/giphy.gif" width="32"> Let's Connect
+
+<div align="center">
+
+<a href="https://niharika-dutta.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/niharika2k00">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/niharika-dutta-ab40a11a6/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:dniharika16@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<br/><br/>
+
+<i>⭐ From <a href="https://github.com/niharika2k00">niharika2k00</a> — thanks for stopping by!</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
