@@ -1,5 +1,5 @@
 <a href="https://github.com/niharika2k00">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Niharika%20Dutta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%E2%9C%A8&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:4338CA&height=220&section=header&text=Niharika%20Dutta&fontSize=50&fontColor=E0E7FF&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%E2%9C%A8&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="header" />
 </a>
 
 <div align="center">
@@ -218,7 +218,7 @@ contact:     dniharika16@gmail.com
   <img src="https://github-readme-stats.vercel.app/api?username=niharika2k00&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=6366F1&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
 </td>
 <td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niharika2k00&hide_border=true&background=0D1117&stroke=6366F1&ring=A78BFA&fire=FF7E5F&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=C9D1D9" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=niharika2k00&hide_border=true&background=0D1117&stroke=6366F1&ring=A78BFA&fire=FF7E5F&currStreakLabel=A78BFA&currStreakNum=E0E7FF&sideNums=E0E7FF&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
 </td>
 </tr>
 </table>
@@ -234,7 +234,7 @@ contact:     dniharika16@gmail.com
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=niharika2k00&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophies" />
+  <img src="https://github-profile-trophy-blue.vercel.app/?username=niharika2k00&theme=darkhub&row=1&column=7&margin-w=10&margin-h=10" alt="trophies" />
 </a>
 
 </div>
@@ -274,4 +274,4 @@ contact:     dniharika16@gmail.com
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,50:1E1B4B,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
