@@ -1,5 +1,5 @@
 <a href="https://github.com/niharika2k00">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:4338CA&height=220&section=header&text=Niharika%20Dutta&fontSize=50&fontColor=E0E7FF&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%E2%9C%A8&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E1B4B,100:4338CA&height=200&section=header&text=Niharika%20Dutta&fontSize=48&fontColor=E0E7FF&animation=fadeIn&fontAlignY=42&desc=%E2%9C%A8%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%E2%9C%A8&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="header" />
 </a>
 
 <div align="center">
@@ -274,4 +274,4 @@ contact:     dniharika16@gmail.com
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,50:1E1B4B,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:1E1B4B,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%" alt="footer" />
