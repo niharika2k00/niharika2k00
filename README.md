@@ -31,7 +31,7 @@
 <div align="center">
 
 <a href="https://github.com/niharika2k00">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=720&lines=Building+scalable+microservice+platforms;Crafting+cloud-native+architectures+on+AWS;Shipping+secure+%26+compliant+systems+at+scale;Always+learning.+Always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+scalable+microservice+platforms;Crafting+cloud-native+architectures+on+AWS;Shipping+secure+%26+compliant+systems+at+scale;Always+learning.+Always+building." alt="Typing SVG" />
 </a>
 
 <br/>
