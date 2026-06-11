@@ -1,11 +1,37 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  HEADER BANNER — pick ONE, comment the rest                  ║ -->
+<!-- ║  Style: type=waving (modern wavy). Swap colors freely.       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<!-- 🌸 HOT PINK — Dark → Wine → Hot Pink -->
 <a href="https://github.com/niharika2k00">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1E1B4B,100:4338CA&height=200&section=header&text=Niharika%20Dutta&fontSize=48&fontColor=E0E7FF&animation=fadeIn&fontAlignY=42&desc=%E2%9C%A8%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%E2%9C%A8&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:9D174D,100:EC4899&height=220&section=header&text=Niharika%20Dutta&fontSize=48&fontColor=FCE7F3&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%E2%9C%A8&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="header" />
+</a>
+
+<!-- 🌅 SUNSET — Yellow → Orange → Pink -->
+<a href="https://github.com/niharika2k00">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCD34D,50:F97316,100:EC4899&height=220&section=header&text=Niharika%20Dutta&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%E2%9C%A8&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="header" />
+</a>
+
+<!-- 💙 COOL BLUE / PURPLE — Sky → Violet → Indigo -->
+<a href="https://github.com/niharika2k00">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:8B5CF6,100:6366F1&height=220&section=header&text=Niharika%20Dutta&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%E2%9C%A8&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="header" />
+</a>
+
+<!-- 🌈 CYBER NEON — Cyan → Violet → Pink -->
+<a href="https://github.com/niharika2k00">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:F472B6&height=220&section=header&text=Niharika%20Dutta&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%E2%9C%A8&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="header" />
+</a>
+
+<!-- 🍭 CANDY POP — Pink → Yellow → Cyan -->
+<a href="https://github.com/niharika2k00">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:FCD34D,100:06B6D4&height=220&section=header&text=Niharika%20Dutta&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%E2%9C%A8&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="header" />
 </a>
 
 <div align="center">
 
 <a href="https://github.com/niharika2k00">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+scalable+microservice+platforms;Crafting+cloud-native+architectures+on+AWS;Shipping+secure+%26+compliant+systems+at+scale;Always+learning.+Always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=720&lines=Building+scalable+microservice+platforms;Crafting+cloud-native+architectures+on+AWS;Shipping+secure+%26+compliant+systems+at+scale;Always+learning.+Always+building." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,7 +48,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=niharika2k00&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=niharika2k00&style=for-the-badge&color=EC4899&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -33,14 +59,14 @@
 > Software Engineer with **3+ years** building **microservice platforms** and **cloud-native architectures** in Java, Spring Boot, React, Node.js and AWS. Strong background in **database schema design** and **system-level architecture**. Hands-on with **Docker, Terraform, and CI/CD automation**; experienced collaborator in agile teams and sprint-based delivery.
 
 ```yaml
-name:        Niharika Dutta
-role:        Software Engineer @ Turbot
-focus:       [ Full Stack, Cloud, DevOps, Security & Compliance ]
-stack:       [ Java, Spring Boot, React, TypeScript, Node.js, AWS ]
-building:    Scalable distributed systems & cloud governance tooling
-learning:    Always — AI tooling, system design, security frameworks
-portfolio:   https://niharika-dutta.vercel.app/
-contact:     dniharika16@gmail.com
+name: Niharika Dutta
+role: Software Engineer @ Turbot
+focus: [Full Stack, Cloud, DevOps, Security & Compliance]
+stack: [Java, Spring Boot, React, TypeScript, Node.js, AWS]
+building: Scalable distributed systems & cloud governance tooling
+learning: Always — AI tooling, system design, security frameworks
+portfolio: https://niharika-dutta.vercel.app/
+contact: dniharika16@gmail.com
 ```
 
 ---
@@ -210,20 +236,20 @@ contact:     dniharika16@gmail.com
 
 <div align="center">
 
-[![Niharika's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niharika2k00&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=A78BFA&point=FFFFFF)](https://github.com/niharika2k00)
+[![Niharika's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niharika2k00&theme=react-dark&hide_border=true&bg_color=0D1117&color=EC4899&line=F472B6&point=FFFFFF)](https://github.com/niharika2k00)
 
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=niharika2k00&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=6366F1&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niharika2k00&show_icons=true&count_private=true&hide_border=true&title_color=F472B6&icon_color=EC4899&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
 </td>
 <td>
-  <img src="https://streak-stats.demolab.com/?user=niharika2k00&hide_border=true&background=0D1117&stroke=6366F1&ring=A78BFA&fire=FF7E5F&currStreakLabel=A78BFA&currStreakNum=E0E7FF&sideNums=E0E7FF&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=niharika2k00&hide_border=true&background=0D1117&stroke=EC4899&ring=F472B6&fire=FF7E5F&currStreakLabel=F472B6&currStreakNum=FCE7F3&sideNums=FCE7F3&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=niharika2k00&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&langs_count=10" alt="top-langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=niharika2k00&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=F472B6&text_color=C9D1D9&bg_color=0D1117&langs_count=10" alt="top-langs" />
 
 </div>
 
@@ -274,4 +300,21 @@ contact:     dniharika16@gmail.com
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:1E1B4B,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%" alt="footer" />
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  FOOTER WAVE — match the header you chose above              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<!-- 🌸 HOT PINK -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:9D174D,100:0D1117&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" />
+
+<!-- 🌅 SUNSET -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:F97316,100:FCD34D&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" /> -->
+
+<!-- 💙 COOL BLUE / PURPLE -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:0EA5E9&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" /> -->
+
+<!-- 🌈 CYBER NEON -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:8B5CF6,100:06B6D4&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" /> -->
+
+<!-- 🍭 CANDY POP -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:FCD34D,100:EC4899&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" /> -->
